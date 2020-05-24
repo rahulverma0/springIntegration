@@ -1,6 +1,6 @@
 # Spring Integration: Getting Started - 08 - Publish-Subscribe Messaging
 
-This is a demo project for the Spring Integration course "Spring Integration: Getting Started" by Jesper de Jong.
+This is a demo project for the Spring Integration course "Spring Integration: Getting Started"
 
 Demo 8: Publish-subscribe messaging.
 

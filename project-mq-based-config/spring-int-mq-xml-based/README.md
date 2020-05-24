@@ -1,6 +1,6 @@
 # Spring Integration: Getting Started - 05 - Message Broker
 
-This is a demo project for the Spring Integration course "Spring Integration: Getting Started" by Jesper de Jong.
+This is a demo project for the Spring Integration course "Spring Integration: Getting Started"
 
 Demo 5: Splitting the demo into separate frontend and backend applications that use [RabbitMQ](https://www.rabbitmq.com/) for messaging.  
 

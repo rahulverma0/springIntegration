@@ -1,6 +1,6 @@
 # Spring Integration: Getting Started - 10 - Handling Errors
 
-This is a demo project for the Spring Integration course "Spring Integration: Getting Started" by Jesper de Jong.
+This is a demo project for the Spring Integration course "Spring Integration: Getting Started"
 
 Demo 10: Handling errors using Spring Integration's error channel.
 
