@@ -8,7 +8,7 @@
         <version>2.2.1.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.pluralsight.demo</groupId>
+    <groupId>com.springint.demo</groupId>
     <artifactId>ps-spring-int-gs-05-broker</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
